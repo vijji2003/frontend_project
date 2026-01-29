@@ -3,7 +3,7 @@ import Hero from "../components/Home/Hero.jsx";
 import Features from "../components/Home/Fearures.jsx";
 import About from "../components/Home/About.jsx";
 import CTA from "../components/Home/CTA.jsx";
-import "../css/HOME/HomeGlobal.css";
+import "../css/Home/HomeGlobal.css";
 
 function Home() {
   return (
