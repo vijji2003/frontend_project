@@ -1,7 +1,7 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
 import AnimatedNumber from "../AnimatedNumbers.jsx";
-import "../../css/home/Hero.css";
+import "../../css/Home/Hero.css";
 
 function Hero() {
   return (
