@@ -1,6 +1,6 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
-import "../../css/home/About.css";
+import "../../css/Home/About.css";
 
 function About() {
   return (
