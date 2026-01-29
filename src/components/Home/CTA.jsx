@@ -1,6 +1,6 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
-import "../../css/home/CTA.css";
+import "../../css/Home/CTA.css";
 
 function CTA() {
   return (
