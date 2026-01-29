@@ -12,7 +12,7 @@ import { Route,Routes } from "react-router-dom";
 import LinkedInRedirect from "../pages/LinkedInRedirect";
 import TwitterRedirect from "../pages/TwitterRedirect";
 import FacebookRedirect from "../pages/FacebookRedirect";
-import Cpus from "../pages/CPUs.jsx";
+import Cpus from "../pages/Cpus.jsx";
 
 
 function Approutes(){
