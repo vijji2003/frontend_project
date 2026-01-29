@@ -1,7 +1,7 @@
 import React from "react";
 
 // 1. CSS Imports
-import "../css/about/AboutGlobal.css"; 
+import "../css/About/AboutGlobal.css"; 
 // (Anni CSS ikkade import cheyakunda, vaati respective JSX files lo import cheyandi)
 
 // 2. Component Imports (Idhi meeru marchipoyaru)
